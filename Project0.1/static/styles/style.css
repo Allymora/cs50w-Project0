@@ -1,0 +1,20 @@
+img {
+  -webkit-clip-path: circle();
+          clip-path: circle();
+}
+
+or img {
+  border-radius: 50%;
+}
+
+img {
+  -webkit-clip-path: circle();
+          clip-path: circle();
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 80%;
+}/*# sourceMappingURL=style.css.map */
