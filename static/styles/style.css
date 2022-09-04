@@ -1,3 +1,8 @@
+.holi {
+  font-family: "Exo", sans-serif;
+  background-color: #ec93cd;
+}
+
 .image img {
   -webkit-clip-path: circle();
           clip-path: circle();
@@ -43,10 +48,6 @@ or .image img {
   justify-content: center;
 }
 
-body {
-  background-color: #ec93cd;
-}
-
 p1 {
   font-size: 18;
   color: white;
@@ -78,8 +79,4 @@ li {
 .nav-link {
   margin: 20px auto;
   font-family: URW Chancery L, cursive;
-}
-
-.cajita {
-  border-radius: 5px;
 }/*# sourceMappingURL=style.css.map */
