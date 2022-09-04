@@ -79,4 +79,28 @@ li {
 .nav-link {
   margin: 20px auto;
   font-family: URW Chancery L, cursive;
+}
+
+th {
+  margin: 50px auto;
+  font-family: URW Chancery L, cursive;
+  color: white;
+  font-size: 20;
+}
+
+td {
+  margin: 50px auto;
+  font-family: URW Chancery L, cursive;
+  color: white;
+  font-size: 19;
+}
+
+.colorcito {
+  margin: 50px auto;
+  font-family: URW Chancery L, cursive;
+  color: white;
+}
+
+.tablita {
+  background-image: linear-gradient(to right, #FF7082, #C0E9FF);
 }/*# sourceMappingURL=style.css.map */

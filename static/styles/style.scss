@@ -55,7 +55,8 @@ p1{
 }
 
 .text-center{
-    margin: 50px auto;   font-family:URW Chancery L, cursive;
+    margin: 50px auto;  
+     font-family:URW Chancery L, cursive;
     color: #fff;
 }
 
@@ -70,9 +71,32 @@ li{
     color: beige;
 }
 .id {
-    margin: 50px auto; font-family:URW Chancery L, cursive;
+    margin: 50px auto;
+     font-family:URW Chancery L, cursive;
     color: white;
 }
 .nav-link{
-    margin: 20px auto; font-family:URW Chancery L, cursive;
+    margin: 20px auto; 
+    font-family:URW Chancery L, cursive;
+}
+th{
+    margin: 50px auto; 
+    font-family:URW Chancery L, cursive;
+    color: white;
+    font-size: 20;
+}
+
+td{
+    margin: 50px auto; 
+    font-family:URW Chancery L, cursive;
+    color: white;
+    font-size: 19;
+}
+.colorcito{
+    margin: 50px auto; 
+    font-family:URW Chancery L, cursive;
+    color: white;
+}
+.tablita{
+    background-image: linear-gradient(to right, #FF7082, #C0E9FF);
 }
